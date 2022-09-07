@@ -1,0 +1,82 @@
+[
+    {
+        "Product_img":"https://e.staedtlercdn.com/product-images/_processed_/f/9/csm_2883371_Productpicture_04e140a823.jpeg",
+        "Brand_name":"STAEDTLER",
+        "Product_title":"Mars® Lumograph®",
+        "Product_desc":"High quality drawing pencil pecial lead formulation for results with a metallic lustre in a wide variety of grey tones",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:200",
+        "Deleted_price":"400",
+        "id":"1"
+    },
+    {
+        "Product_img":"https://e.staedtlercdn.com/product-images/_processed_/c/6/csm_2904391_Productpicture_577d204b98.jpeg",
+        "Brand_name":"STAEDTLER",
+        "Product_title":"Mars® Lumograph®",
+        "Product_desc":"High quality drawing pencil pecial lead formulation for results with a metallic lustre in a wide variety of grey tones",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:500",
+        "Deleted_price":"1000",
+        "id":"2"
+    },
+    {
+        "Product_img":"https://e.staedtlercdn.com/product-images/_processed_/1/9/csm_3056954_Productpicture_3aeb2e4237.jpeg",
+        "Brand_name":"STAEDTLER",
+        "Product_title":"triplus® color 323",
+        "Product_desc":"Cardboard box containing 25 triplus color in assorted colours, triplus anniversary.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:1500",
+        "Deleted_price":"3000",
+        "id":"3"
+    },
+    {
+        "Product_img":"https://e.staedtlercdn.com/product-images/_processed_/5/8/csm_2885577_Productpicture_e3d1c83e9c.jpeg",
+        "Brand_name":"STAEDTLER",
+        "Product_title":"triplus® color 323",
+        "Product_desc":"Metal case containing 50 triplus color in 48 assorted colours",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:1200",
+        "Deleted_price":"2400",
+        "id":"4"
+    },
+    {
+        "Product_img":"https://e.staedtlercdn.com/product-images/_processed_/0/f/csm_3074845_Productpicture_b03452b48b.jpeg",
+        "Brand_name":"STAEDTLER",
+        "Product_title":"FIMO® soft 8023",
+        "Product_desc":"Basic Set in clamshell blister with 9 half blocks à 25 g (assorted colours), 1 bottle of gloss varnish, 1 modelling stick, 1 work sheet, instruction",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:1500",
+        "Deleted_price":"3000",
+        "id":"5"
+    },
+    {
+        "Product_img":"https://e.staedtlercdn.com/product-images/_processed_/3/f/csm_2142370_Productpicture_447fdc1707.jpeg",
+        "Brand_name":"STAEDTLER",
+        "Product_title":"Mars® 501 180",
+        "Product_desc":" For all round, triangular and hexagonal blacklead and coloured pencils up to Ø 12 mm Various adjustment possibilities for sharpening cone: - long and sharp ideal for clear, accurate lines and for hatching - short and blunt  ideal for broad, soft lines With metal rotary blade Rubberized claws to protect pencil surface Automatic sharpening stop Desk clamp",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:500",
+        "Deleted_price":"1000",
+        "id":"6"
+    },
+    {
+        "Product_img":"https://e.staedtlercdn.com/product-images/_processed_/c/0/csm_2891675_Productpicture_939f9acf0b.jpeg",
+        "Brand_name":"STAEDTLER",
+        "Product_title":"Geometry squares",
+        "Product_desc":"Single product length 16 cm with removable grip, fileable  Product information With ink studs Transparent Article number 568 36",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:200",
+        "Deleted_price":"400",
+        "id":"7"
+    },
+    {
+        "Product_img":"https://e.staedtlercdn.com/product-images/_processed_/3/e/csm_2989310_Productpicture_cea4b7741f.jpeg",
+        "Brand_name":"STAEDTLER",
+        "Product_title":"Fountain Pens",
+        "Product_desc":"Product information Full metal body and cap in ergonomic triangular shape Full metal clip and decorative parts, high polished silver Stainless steel nib F + M, with STAEDTLER Mars head engraved Available in 4 fashionable, matt colors: antique anthracite, radiant rose, glorious gold und roaring red STAEDTLER lettering all around the middle decorative ring STAEDTLER Mars head embossed on the top of cap Equipped with one standard ink cartridge, blue Cardboard box, hangable Dimensions (LxWxH): 180x47x15mm Red Dot Design Award winner 2021 Article number 474F SCA12",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:1200",
+        "Deleted_price":"2400",
+        "id":"8"
+    }
+]

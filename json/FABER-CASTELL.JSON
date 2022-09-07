@@ -1,0 +1,83 @@
+[
+    {
+        "Product_img":"https://www.faber-castell.com/-/media/Products/Product-Repository/Jumbo-GRIP-pencils/24-24-01-Pencil/111993-Graphite-pencil-Jumbo-Grip-Two-Tone-BC/Images/111993_10_PM1.ashx?bc=ffffff&w=273&h=290&as=0&la=en-Glob&hash=566D17C6ABC034F743E1641703C78D0BB37A5930",
+        "Brand_name":"FABER-CASTELL",
+        "Product_title":"Two Tone Jumbo pencil",
+        "Product_desc":"The Jumbo Grip pencil is ideal for learning to write - which is why it is so often recommended by teachers.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:100",
+        "Deleted_price":"200",
+        "id":"1"
+    },
+    {
+        "Product_img":"https://www.faber-castell.com/-/media/Products/Product-Repository/GRIP-SPARKLE/24-24-01-Pencil/111676-GP-Jumbo-Sparkle-pearl-turquoise-2x-BC/Images/111676_10_PM1.ashx?bc=ffffff&as=0&h=90&w=90&hash=F06D54151234E2D69E2BC49D8FC3C6AB3C9B6F03",
+        "Brand_name":"FABER-CASTELL",
+        "Product_title":"Jumbo Spark set pencil",
+        "Product_desc":"The new sparkle assortment adds a touch of sparkle to your desk and its glittering design will not only appeal to trendsetters.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:100",
+        "Deleted_price":"200",
+        "id":"2"
+    },
+    {
+        "Product_img":"https://www.faber-castell.com/-/media/Products/Product-Repository/Polychromos-artists-colour-pencils/24-25-03-Colored-pencil/110013-Pencil-Polychromos-CASE120/Images/110013_10_PM1.ashx?bc=ffffff&w=273&h=290&as=0&la=en-Glob&hash=2829F49FA0DDDA3F2736684FADCD23FA3C61F752",
+        "Brand_name":"FABER-CASTELL",
+        "Product_title":"Polychromos colour pencil",
+        "Product_desc":"Polychromos colour pencil, wood case of 120Polychromos artists' pencils are valued internationally by professionals and semi-professionals for their unsurpassed quality.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:5000",
+        "Deleted_price":"10,000",
+        "id":"3"
+    },
+    
+    {
+        "Product_img":"https://www.faber-castell.com/-/media/Products/Product-Repository/Albrecht-Drer-water-soluble-col-pencil/24-25-03-Colored-pencil/117530-Watercolour-pencil-Albrecht-Drer-30ct-pencil-roll/Images/117530_10_PM1.ashx?bc=ffffff&w=273&h=290&as=0&la=en-Glob&hash=E613E92DDA028486D04A26B4E055580FBD54483C",
+        "Brand_name":"FABER-CASTELL",
+        "Product_title":"Albrech watercolor pencil",
+        "Product_desc":"Albrecht Dürer artists' watercolour pencils provide artists with great versatility of expression",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:100",
+        "Deleted_price":"200",
+        "id":"4"
+    },
+    {
+        "Product_img":"https://www.faber-castell.com/-/media/Products/Product-Repository/Gelatos/24-25-16-Crayon/121834-Watersoluble-crayons-Gelatos-gift-set-33ct/Images/121834_10_PM1.ashx?bc=ffffff&as=0&h=900&w=900&hash=EA18E88399BC7DFAE78F246D3492B385E70FFD7C",
+        "Brand_name":"FABER-CASTELL",
+        "Product_title":"Gelatos crayons",
+        "Product_desc":"Nothing on the market today compares with Design Memory Craft Gelatos®",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:600",
+        "Deleted_price":"1200",
+        "id":"5"
+    },
+    {
+        "Product_img":"https://www.faber-castell.com/-/media/Products/Product-Repository/Gelatos/24-25-16-Crayon/121818-WatsolcrayGelatos-Translus-15parts/Images/121818_10_PM1.ashx?bc=ffffff&as=0&h=900&w=900&hash=6A2B7F132BA83A446C028A81FFFD91CDA527E390",
+        "Brand_name":"FABER-CASTELL",
+        "Product_title":"Gelatos  crayons",
+        "Product_desc":"Nothing on the market today compares with Design Memory Craft Gelatos®",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:600",
+        "Deleted_price":"1200",
+        "id":"6"
+    },
+    {
+        "Product_img":"https://www.faber-castell.com/-/media/Products/Product-Repository/Children-crayons/24-25-16-Crayon/120011-Wax-crayons-Jumbo-12-per-box/Images/120011_10_PM1.ashx?bc=ffffff&as=0&h=900&w=900&hash=279B62C1A1C38DDCCCFA37B64CAD140F00CC6547",
+        "Brand_name":"FABER-CASTELL",
+        "Product_title":"Jumbo wax crayon",
+        "Product_desc":"Jumbo wax crayon triangular, plastic box of 12 Budding artists between the age of 3 and 6 love to experiment by drawing on different surfaces. Crayons are a great way of drawing on large surfaces, with their soft stroke and bright colours.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:600",
+        "Deleted_price":"1200",
+        "id":"7"
+    },
+    {
+        "Product_img":"https://www.faber-castell.com/-/media/Products/Product-Repository/Opaque-colours/24-25-14-Artists-colours/481600-Brush-set-soft-touch/Images/481600_10_PM1.ashx?bc=ffffff&as=0&h=900&w=900&hash=98E56C4E4174369C0904F72E5ADEB3F617B02B6E",
+        "Brand_name":"FABER-CASTELL",
+        "Product_title":"4 sizes on blister card",
+        "Product_desc":"Brush with soft touch grip area, 4 sizes on blister card Opaque colours are ideal for school and leisure. The color mixing offers unlimited possibilities for painting on paper and other surfaces. Children succeed well with opaque and bright colours.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:600",
+        "Deleted_price":"1200",
+        "id":"8"
+    }
+]

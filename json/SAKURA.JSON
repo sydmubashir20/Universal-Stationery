@@ -1,0 +1,102 @@
+[
+    {
+        "Product_img":"https://www.sakuraofamerica.com/wp-content/uploads/2020/06/Sakura-Koi-Tube-products.png",
+        "Brand_name":"SAKURA",
+        "Product_title":"Koi Tubes",
+        "Product_desc":"Students, hobbyists, and fine artists enjoy the smooth, subtle gradations of Koi® Water Colors. These student-grade tube",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:700",
+        "Deleted_price":"1400",
+        "id":"1"
+    },
+    {
+        "Product_img":"https://www.sakuraofamerica.com/wp-content/uploads/2020/06/Koi-ColoringBrushPen.png",
+        "Brand_name":"SAKURA",
+        "Product_title":"Koi Color Brush Pens",
+        "Product_desc":"High quality drawing pencil pecial lead formulation for results with a metallic lustre in a wide variety of grey tones",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:400",
+        "Deleted_price":"800",
+        "id":"2"
+    },
+    {
+        "Product_img":"https://www.sakuraofamerica.com/wp-content/uploads/2020/06/PencilsErasers-XS12.png",
+        "Brand_name":"SAKURA",
+        "Product_title":"Mechanical Pencil",
+        "Product_desc":"OThe Sakura XS Series of mechanical pencils features a fixed sleeve that protects the pencil lead when used with rulers or templates.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:400",
+        "Deleted_price":"800",
+        "id":"3"
+    },
+    {
+        "Product_img":"https://www.sakuraofamerica.com/wp-content/uploads/2020/06/gelly_moonlight9.jpg",
+        "Brand_name":"SAKURA",
+        "Product_title":"Gelly Roll Moonlight",
+        "Product_desc":"In the 1980s, Sakura surprised the pen industry with the invention of the first gel-based ink creating the first and original gel pen. The iconic, nostalgic Gelly Roll® line includes 20 colors (including 5 fluorescents) and 5 gray shades. The unique paint-like quality and performance of Moonlight is ideal for both white and dark papers.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:500",
+        "Deleted_price":"1000",
+        "id":"4"
+    },
+    {
+        "Product_img":"https://www.sakuraofamerica.com/wp-content/uploads/2020/06/sumogrip_pencil2.jpg",
+        "Brand_name":"SAKURA",
+        "Product_title":"SumoGrip Pencil",
+        "Product_desc":"Fingers feel relaxed and flexible while holding the specially designed, triangular shaped grip of the SumoGrip pencil.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:400",
+        "Deleted_price":"800",
+        "id":"5"
+    },
+    {
+        "Product_img":"https://www.sakuraofamerica.com/wp-content/uploads/2020/06/Sakura-Koi-Tube-products.png",
+        "Brand_name":"SAKURA",
+        "Product_title":"Koi Tubes",
+        "Product_desc":"Students, hobbyists, and fine artists enjoy the smooth, subtle gradations of Koi® Water Colors. These student-grade tube",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:700",
+        "Deleted_price":"1400",
+        "id":"6"
+    },
+    {
+        "Product_img":"https://www.sakuraofamerica.com/wp-content/uploads/2020/06/Koi-ColoringBrushPen.png",
+        "Brand_name":"SAKURA",
+        "Product_title":"Koi Color Brush Pens",
+        "Product_desc":"High quality drawing pencil pecial lead formulation for results with a metallic lustre in a wide variety of grey tones",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:400",
+        "Deleted_price":"800",
+        "id":"7"
+    },
+    {
+        "Product_img":"https://www.sakuraofamerica.com/wp-content/uploads/2020/06/PencilsErasers-XS12.png",
+        "Brand_name":"SAKURA",
+        "Product_title":" Mechanical Pencil",
+        "Product_desc":"OThe Sakura XS Series of mechanical pencils features a fixed sleeve that protects the pencil lead when used with rulers or templates.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:400",
+        "Deleted_price":"800",
+        "id":"8"
+    },
+    {
+        "Product_img":"https://www.sakuraofamerica.com/wp-content/uploads/2020/06/PencilsErasers-XS12.png",
+        "Brand_name":"SAKURA",
+        "Product_title":" Mechanical Pencil",
+        "Product_desc":"OThe Sakura XS Series of mechanical pencils features a fixed sleeve that protects the pencil lead when used with rulers or templates.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:400",
+        "Deleted_price":"800",
+        "id":"9"
+    },
+    {
+        "Product_img":"https://www.sakuraofamerica.com/wp-content/uploads/2020/06/sumogrip_pencil2.jpg",
+        "Brand_name":"SAKURA",
+        "Product_title":"SumoGrip Pencil",
+        "Product_desc":"Fingers feel relaxed and flexible while holding the specially designed, triangular shaped grip of the SumoGrip pencil.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:400",
+        "Deleted_price":"800",
+        "id":"10"
+    }
+]

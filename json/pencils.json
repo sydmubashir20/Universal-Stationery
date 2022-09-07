@@ -1,0 +1,83 @@
+[
+    {
+        "Product_img":"https://www.faber-castell.com/-/media/Products/Product-Repository/Jumbo-GRIP-pencils/24-24-01-Pencil/111993-Graphite-pencil-Jumbo-Grip-Two-Tone-BC/Images/111993_10_PM1.ashx?bc=ffffff&w=273&h=290&as=0&la=en-Glob&hash=566D17C6ABC034F743E1641703C78D0BB37A5930",
+        "Brand_name":"FABER-CASTELL",
+        "Product_title":"Two Tone Jumbo Grip graphite pencil",
+        "Product_desc":"The Jumbo Grip pencil is ideal for learning to write - which is why it is so often recommended by teachers.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:100",
+        "Deleted_price":"200",
+        "id":"1"
+    },
+    {
+        "Product_img":"https://www.faber-castell.com/-/media/Products/Product-Repository/GRIP-SPARKLE/24-24-01-Pencil/111676-GP-Jumbo-Sparkle-pearl-turquoise-2x-BC/Images/111676_10_PM1.ashx?bc=ffffff&as=0&h=90&w=90&hash=F06D54151234E2D69E2BC49D8FC3C6AB3C9B6F03",
+        "Brand_name":"FABER-CASTELL",
+        "Product_title":"TJumbo Sparkle graphite pencil set",
+        "Product_desc":"The new sparkle assortment adds a touch of sparkle to your desk and its glittering design will not only appeal to trendsetters.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:100",
+        "Deleted_price":"200",
+        "id":"2"
+    },
+    {
+        "Product_img":"https://e.staedtlercdn.com/product-images/_processed_/f/9/csm_2883371_Productpicture_04e140a823.jpeg",
+        "Brand_name":"STAEDTLER",
+        "Product_title":"Mars® Lumograph® 100",
+        "Product_desc":"High quality drawing pencil pecial lead formulation for results with a metallic lustre in a wide variety of grey tones",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:200",
+        "Deleted_price":"400",
+        "id":"3"
+    },
+    {
+        "Product_img":"https://e.staedtlercdn.com/product-images/_processed_/c/6/csm_2904391_Productpicture_577d204b98.jpeg",
+        "Brand_name":"STAEDTLER",
+        "Product_title":"Mars® Lumograph® 100",
+        "Product_desc":"High quality drawing pencil pecial lead formulation for results with a metallic lustre in a wide variety of grey tones",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:500",
+        "Deleted_price":"1000",
+        "id":"4"
+    },
+    {
+        "Product_img":"https://cottonon.com/dw/image/v2/BBDS_PRD/on/demandware.static/-/Sites-catalog-master-typo/default/dwc6fb0339/140123/140123-05-1.jpg?sw=800&sh=1200&sm=fit",
+        "Brand_name":"TYPO",
+        "Product_title":"Mars® Lumograph®",
+        "Product_desc":"Over sized (obviously) Fo all your HUGE notes Eraser on end Various colours available",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:250",
+        "Deleted_price":"500",
+        "id":"5"
+    },
+    {
+        "Product_img":"https://cottonon.com/dw/image/v2/BBDS_PRD/on/demandware.static/-/Sites-catalog-master-typo/default/dwdf73bc57/1684429/1684429-06-2.jpg?sw=640&sh=960&sm=fit",
+        "Brand_name":"TYPO",
+        "Product_title":"Fashion Pencil Pack",
+        "Product_desc":"Over sized (obviously) Fo all your HUGE notes Eraser on end Various colours available",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:350",
+        "Deleted_price":"700",
+        "id":"6"
+    },
+    {
+        "Product_img":"https://www.sakuraofamerica.com/wp-content/uploads/2020/06/PencilsErasers-XS12.png",
+        "Brand_name":"SAKURA",
+        "Product_title":" Mechanical Pencil",
+        "Product_desc":"OThe Sakura XS Series of mechanical pencils features a fixed sleeve that protects the pencil lead when used with rulers or templates.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:400",
+        "Deleted_price":"800",
+        "id":"7"
+    },
+    {
+        "Product_img":"https://www.sakuraofamerica.com/wp-content/uploads/2020/06/sumogrip_pencil2.jpg",
+        "Brand_name":"SAKURA",
+        "Product_title":"SumoGrip Pencil",
+        "Product_desc":"Fingers feel relaxed and flexible while holding the specially designed, triangular shaped grip of the SumoGrip pencil.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:400",
+        "Deleted_price":"800",
+        "id":"8"
+    }
+    
+]

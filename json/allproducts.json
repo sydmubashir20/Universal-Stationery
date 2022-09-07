@@ -1,0 +1,269 @@
+[
+    {
+        "Product_img":"https://www.faber-castell.com/-/media/Products/Product-Repository/Jumbo-GRIP-pencils/24-24-01-Pencil/111993-Graphite-pencil-Jumbo-Grip-Two-Tone-BC/Images/111993_10_PM1.ashx?bc=ffffff&w=273&h=290&as=0&la=en-Glob&hash=566D17C6ABC034F743E1641703C78D0BB37A5930",
+        "Brand_name":"FABER-CASTELL",
+        "Product_title":"Jumbo  pencil",
+        "Product_desc":"The Jumbo Grip pencil is ideal for learning to write - which is why it is so often recommended by teachers.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:100",
+        "Deleted_price":"200",
+        "id":"1"
+    },
+   
+    {
+        "Product_img":"https://www.sakuraofamerica.com/wp-content/uploads/2020/06/Sakura-Koi-Tube-products.png",
+        "Brand_name":"SAKURA",
+        "Product_title":"Koi Tubes",
+        "Product_desc":"Students, hobbyists, and fine artists enjoy the smooth, subtle gradations of Koi® Water Colors. These student-grade tube",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:700",
+        "Deleted_price":"14000",
+        "id":"2"
+    },
+    {
+        "Product_img":"https://cottonon.com/dw/image/v2/BBDS_PRD/on/demandware.static/-/Sites-catalog-master-typo/default/dw798faf8e/145663/145663-187-2.jpg?sw=1920&sh=2880&sm=fit",
+        "Brand_name":"TYPO",
+        "Product_title":"Campus Notebook",
+        "Product_desc":"High quality drawing pencil pecial lead formulation for results with a metallic lustre in a wide variety of grey tones",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:800",
+        "Deleted_price":"1600",
+        "id":"3"
+    },
+    {
+        "Product_img":"https://www.faber-castell.com/-/media/Products/Product-Repository/GRIP-SPARKLE/24-24-01-Pencil/111676-GP-Jumbo-Sparkle-pearl-turquoise-2x-BC/Images/111676_10_PM1.ashx?bc=ffffff&as=0&h=90&w=90&hash=F06D54151234E2D69E2BC49D8FC3C6AB3C9B6F03",
+        "Brand_name":"FABER-CASTELL",
+        "Product_title":"graphite pencil",
+        "Product_desc":"The new sparkle assortment adds a touch of sparkle to your desk and its glittering design will not only appeal to trendsetters.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:250",
+        "Deleted_price":"500",
+        "id":"4"
+    },
+    {
+        "Product_img":"https://www.sakuraofamerica.com/wp-content/uploads/2020/06/Koi-ColoringBrushPen.png",
+        "Brand_name":"SAKURA",
+        "Product_title":"Koi Coloring Brush Pens",
+        "Product_desc":"High quality drawing pencil pecial lead formulation for results with a metallic lustre in a wide variety of grey tones",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:400",
+        "Deleted_price":"800",
+        "id":"5"
+    },
+    {
+        "Product_img":"https://cottonon.com/dw/image/v2/BBDS_PRD/on/demandware.static/-/Sites-catalog-master-typo/default/dw653f7bfd/145663/145663-166-2.jpg?sw=1920&sh=2880&sm=fit",
+        "Brand_name":"TYPO",
+        "Product_title":"A4 Campus Notebook Recycled",
+        "Product_desc":"High quality drawing pencil pecial lead formulation for results with a metallic lustre in a wide variety of grey tones",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:800",
+        "Deleted_price":"1600",
+        "id":"6"
+    },
+    {
+        "Product_img":"https://www.faber-castell.com/-/media/Products/Product-Repository/Polychromos-artists-colour-pencils/24-25-03-Colored-pencil/110013-Pencil-Polychromos-CASE120/Images/110013_10_PM1.ashx?bc=ffffff&w=273&h=290&as=0&la=en-Glob&hash=2829F49FA0DDDA3F2736684FADCD23FA3C61F752",
+        "Brand_name":"FABER-CASTELL",
+        "Product_title":"Polychromos colour pencil",
+        "Product_desc":"Polychromos colour pencil, wood case of 120Polychromos artists' pencils are valued internationally by professionals and semi-professionals for their unsurpassed quality.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:5000",
+        "Deleted_price":"10,000",
+        "id":"7"
+    },
+    {
+        "Product_img":"https://e.staedtlercdn.com/product-images/_processed_/f/9/csm_2883371_Productpicture_04e140a823.jpeg",
+        "Brand_name":"STAEDTLER",
+        "Product_title":"Mars® Lumograph® 100",
+        "Product_desc":"High quality drawing pencil pecial lead formulation for results with a metallic lustre in a wide variety of grey tones",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:200",
+        "Deleted_price":"400",
+        "id":"8"
+    },
+    {
+        "Product_img":"https://cottonon.com/dw/image/v2/BBDS_PRD/on/demandware.static/-/Sites-catalog-master-typo/default/dwe6777d64/145645/145645-05-2.jpg?sw=1920&sh=2880&sm=fit",
+        "Brand_name":"TYPO",
+        "Product_title":"Dual Markers 6Pk",
+        "Product_desc":"6 Pack Brush tip Bullet tip Various packs available",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:200",
+        "Deleted_price":"400",
+        "id":"9"
+    }, 
+    {
+        "Product_img":"https://cottonon.com/dw/image/v2/BBDS_PRD/on/demandware.static/-/Sites-catalog-master-typo/default/dw2b188d55/145663/145663-171-2.jpg?sw=640&sh=960&sm=fit",
+        "Brand_name":"TYPO",
+        "Product_title":"Campus Notebook",
+        "Product_desc":"High quality drawing pencil pecial lead formulation for results with a metallic lustre in a wide variety of grey tones",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:800",
+        "Deleted_price":"1600",
+        "id":"10"
+    },
+    
+
+    {
+        "Product_img":"https://www.faber-castell.com/-/media/Products/Product-Repository/Albrecht-Drer-water-soluble-col-pencil/24-25-03-Colored-pencil/117530-Watercolour-pencil-Albrecht-Drer-30ct-pencil-roll/Images/117530_10_PM1.ashx?bc=ffffff&w=273&h=290&as=0&la=en-Glob&hash=E613E92DDA028486D04A26B4E055580FBD54483C",
+        "Brand_name":"FABER-CASTELL",
+        "Product_title":"Albrecht water pencil",
+        "Product_desc":"Albrecht Dürer artists' watercolour pencils provide artists with great versatility of expression",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:100",
+        "Deleted_price":"200",
+        "id":"11"
+    },
+    {
+        "Product_img":"https://cottonon.com/dw/image/v2/BBDS_PRD/on/demandware.static/-/Sites-catalog-master-typo/default/dwa931dce4/145663/145663-149-2.jpg?sw=640&sh=960&sm=fit",
+        "Brand_name":"TYPO",
+        "Product_title":" Campus Notebook",
+        "Product_desc":"High quality drawing pencil pecial lead formulation for results with a metallic lustre in a wide variety of grey tones",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:800",
+        "Deleted_price":"1600",
+        "id":"12"
+    },
+    {
+        "Product_img":"https://cottonon.com/dw/image/v2/BBDS_PRD/on/demandware.static/-/Sites-catalog-master-typo/default/dw1cfe2bd7/145663/145663-170-2.jpg?sw=640&sh=960&sm=fit",
+        "Brand_name":"TYPO",
+        "Product_title":"A4 Campus Notebook Recycled",
+        "Product_desc":"High quality drawing pencil pecial lead formulation for results with a metallic lustre in a wide variety of grey tones",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:800",
+        "Deleted_price":"1600",
+        "id":"13"
+    },
+    {
+        "Product_img":"https://e.staedtlercdn.com/product-images/_processed_/c/6/csm_2904391_Productpicture_577d204b98.jpeg",
+        "Brand_name":"STAEDTLER",
+        "Product_title":"Mars® Lumograph® 100",
+        "Product_desc":"High quality drawing pencil pecial lead formulation for results with a metallic lustre in a wide variety of grey tones",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:500",
+        "Deleted_price":"1000",
+        "id":"14"
+    },
+  
+    {
+        "Product_img":"https://cottonon.com/dw/image/v2/BBDS_PRD/on/demandware.static/-/Sites-catalog-master-typo/default/dw083abc71/145663/145663-153-2.jpg?sw=1920&sh=2880&sm=fit",
+        "Brand_name":"TYPO",
+        "Product_title":"A4 Campus Notebook Recycled",
+        "Product_desc":"High quality drawing pencil pecial lead formulation for results with a metallic lustre in a wide variety of grey tones",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:800",
+        "Deleted_price":"1600",
+        "id":"15"
+    },
+    {
+        "Product_img":"https://cottonon.com/dw/image/v2/BBDS_PRD/on/demandware.static/-/Sites-catalog-master-typo/default/dwc6fb0339/140123/140123-05-1.jpg?sw=800&sh=1200&sm=fit",
+        "Brand_name":"TYPO",
+        "Product_title":"Mars® Lumograph® 100",
+        "Product_desc":"Over sized (obviously) Fo all your HUGE notes Eraser on end Various colours available",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:250",
+        "Deleted_price":"500",
+        "id":"16"
+    },
+    {
+        "Product_img":"https://cottonon.com/dw/image/v2/BBDS_PRD/on/demandware.static/-/Sites-catalog-master-typo/default/dwdf73bc57/1684429/1684429-06-2.jpg?sw=640&sh=960&sm=fit",
+        "Brand_name":"TYPO",
+        "Product_title":"Fashion Pencil Pack",
+        "Product_desc":"Over sized (obviously) Fo all your HUGE notes Eraser on end Various colours available",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:350",
+        "Deleted_price":"700",
+        "id":"17"
+    },
+    {
+        "Product_img":"https://cottonon.com/dw/image/v2/BBDS_PRD/on/demandware.static/-/Sites-catalog-master-typo/default/dw2bca8abc/145663/145663-167-2.jpg?sw=640&sh=960&sm=fit",
+        "Brand_name":"TYPO",
+        "Product_title":"Campus Notebook",
+        "Product_desc":"High quality drawing pencil pecial lead formulation for results with a metallic lustre in a wide variety of grey tones",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:800",
+        "Deleted_price":"1600",
+        "id":"18"
+    },
+    {
+        "Product_img":"https://cottonon.com/dw/image/v2/BBDS_PRD/on/demandware.static/-/Sites-catalog-master-typo/default/dw6e1415a1/1683523/1683523-03-2.jpg?sw=640&sh=960&sm=fit",
+        "Brand_name":"TYPO",
+        "Product_title":" Dual Nib Marker",
+        "Product_desc":"Perfect for any creative project Various colours available Bullet tip and brush tip Reusable acrylic case Alcohol based",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:800",
+        "Deleted_price":"1600",
+        "id":"19"
+    },
+    {
+        "Product_img":"https://www.sakuraofamerica.com/wp-content/uploads/2020/06/PencilsErasers-XS12.png",
+        "Brand_name":"SAKURA",
+        "Product_title":"Mechanical Pencil",
+        "Product_desc":"OThe Sakura XS Series of mechanical pencils features a fixed sleeve that protects the pencil lead when used with rulers or templates.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:400",
+        "Deleted_price":"800",
+        "id":"20"
+    },
+    {
+        "Product_img":"https://cottonon.com/dw/image/v2/BBDS_PRD/on/demandware.static/-/Sites-catalog-master-typo/default/dw6770c167/145663/145663-189-2.jpg?sw=640&sh=960&sm=fit",
+        "Brand_name":"TYPO",
+        "Product_title":"Campus Notebook",
+        "Product_desc":"Tear off sheets Tabbed divider pages Internal PocketsFlick through 214 page/ 107 sheets",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:800",
+        "Deleted_price":"1600",
+        "id":"21"
+    },
+    {
+        "Product_img":"https://e.staedtlercdn.com/product-images/_processed_/1/9/csm_3056954_Productpicture_3aeb2e4237.jpeg",
+        "Brand_name":"STAEDTLER",
+        "Product_title":"triplus® color 323",
+        "Product_desc":"Cardboard box containing 25 triplus color in assorted colours, triplus anniversary.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:1500",
+        "Deleted_price":"3000",
+        "id":"22"
+    },
+    {
+        "Product_img":"https://www.sakuraofamerica.com/wp-content/uploads/2020/06/PencilsErasers-XS12.png",
+        "Brand_name":"SAKURA",
+        "Product_title":"Mechanical Pencil x1",
+        "Product_desc":"OThe Sakura XS Series of mechanical pencils features a fixed sleeve that protects the pencil lead when used with rulers or templates.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:400",
+        "Deleted_price":"800",
+        "id":"23"
+    },
+    {
+        "Product_img":"https://cottonon.com/dw/image/v2/BBDS_PRD/on/demandware.static/-/Sites-catalog-master-typo/default/dw798faf8e/145663/145663-187-2.jpg?sw=1920&sh=2880&sm=fit",
+        "Brand_name":"TYPO",
+        "Product_title":"Campus Notebook",
+        "Product_desc":"High quality drawing pencil pecial lead formulation for results with a metallic lustre in a wide variety of grey tones",
+        "Product_sale-offer":"50%",
+        "Product_price":"Rs:400",
+        "Deleted_price":"800",
+        "id":"24"
+    },
+    {
+        "Product_img":"https://www.sakuraofamerica.com/wp-content/uploads/2020/06/sumogrip_pencil2.jpg",
+        "Brand_name":"SAKURA",
+        "Product_title":"SumoGrip Pencil",
+        "Product_desc":"Fingers feel relaxed and flexible while holding the specially designed, triangular shaped grip of the SumoGrip pencil.",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:400",
+        "Deleted_price":"800",
+        "id":"25"
+    },
+    
+    {
+        "Product_img":"https://e.staedtlercdn.com/product-images/_processed_/5/8/csm_2885577_Productpicture_e3d1c83e9c.jpeg",
+        "Brand_name":"STAEDTLER",
+        "Product_title":"triplus® color 323",
+        "Product_desc":"Metal case containing 50 triplus color in 48 assorted colours",
+        "Product_sale_offer":"50%",
+        "Product_price":"Rs:1200",
+        "Deleted_price":"2400",
+        "id":"26"
+    }
+    
+    
+]
